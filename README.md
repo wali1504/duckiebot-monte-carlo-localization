@@ -8,11 +8,6 @@ Particle-filter localization in environments with repeated and visually ambiguou
 
 *Particles gradually converge around the robot pose as odometry and repeated landmark observations are processed.*
 
-## Project Resources
-
-- 📄 [View the implementation details presentation](../Visuals/monteCarloImplementation.pdf)
-- ▶️ [Watch the demo on YouTube](https://youtu.be/WHQ-gWjqnSM)
-
 ---
 
 ## Overview

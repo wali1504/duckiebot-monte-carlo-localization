@@ -1,6 +1,6 @@
 # parameters
-ARG REPO_NAME="MonteCarlo"
-ARG DESCRIPTION="Monte Carlo Localization"
+ARG REPO_NAME="Localization_Assignment"
+ARG DESCRIPTION="Localization_Assignment"
 ARG MAINTAINER="Adam Sattout (adamsattout@yahoo.com)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
